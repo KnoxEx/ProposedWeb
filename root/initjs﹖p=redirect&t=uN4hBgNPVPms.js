@@ -1,1 +1,0 @@
-(function(){ window.parent=self; window.opener=null; window.location.replace('http://www.kraken.com/redirect?t=uN4hBgNPVPms'); })(); 
